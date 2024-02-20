@@ -38,7 +38,11 @@ dialogado.
 
 11.-Texto periodístico
 
-12.-Texto publicitario
+12.-Texto publicitario: Estos son textos para escritores avanzados, aquí es donde se aplican recetas y 
+conjuros para que el cliente reconozca su necesidad. Los textos publicitarios tienen como objetivo persuadir
+y convencer sobre un determinado producto. Para eso utilizan muchos artificios en los textos, 
+como disparadores o mensajes subliminales – este último está en el límite de lo ético por eso utilízalo 
+con moderación.
 
 13.-Texto jurídico
 
