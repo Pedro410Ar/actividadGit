@@ -11,22 +11,37 @@ Diversos lingüistas han expuesto cómo diferenciar los tipos de texto.
 Una de las propuestas más difundidas es la de Egon Werlich, quien diferencia cinco tipos de texto, 
 según su estructura formal y destinatario, en: narrativo, descriptivo, expositivo, argumentativo e 
 instructivo. 
+
 Otra propuesta es la del lingüista Jean Michelle Adam, que expone que la clasificación de los textos
 no es absoluta, y distingue los siguientes tipos: descriptivo, narrativo, argumentativo, expositivo y 
 dialogado.
 
-Texto narrativo
-Texto descriptivo
-Texto expositivo
-Texto argumentativo
-Texto instructivo
-Texto dialogado
-Texto informativo
-Texto científico
-Texto lírico
-Texto dramáticoo
-Texto periodístico
-Texto publicitario
-Texto jurídico
-Texto impreso
-Texto digital
+1.-Texto narrativo
+
+2.-Texto descriptivo
+
+3.-Texto expositivo
+
+4.-Texto argumentativo
+
+5.-Texto instructivo
+
+6.-Texto dialogado
+
+7.-Texto informativo
+
+8.-Texto científico
+
+9.-Texto lírico
+
+10.-Texto dramático
+
+11.-Texto periodístico
+
+12.-Texto publicitario
+
+13.-Texto jurídico
+
+14.-Texto impreso
+
+15.-Texto digital
