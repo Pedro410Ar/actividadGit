@@ -45,3 +45,7 @@ dialogado.
 14.-Texto impreso
 
 15.-Texto digital
+
+16.-Texto DE PRACTICA
+
+17.-Texto DE PRACTICA
